@@ -48,9 +48,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ntsd&show_icons=true&theme=blue-green&hide_title=true&line_height=26" />&nbsp;<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=21upe2xfqu73mfjaknb3ci4iq&redirect=true"></a>
   
-<a href="https://twitter.com/intent/follow?screen_name=yonycalsin">
-    <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @yonycalsin on Twitter" title="Follow @yonycalsin on Twitter">
-  </a>
+![](metrics.plugin.pagespeed.svg)
+
+![](metrics.plugin.languages.svg)
 
 [discord]: https://discord.gg/vPQv2EJpBA
 [youtube]: https://www.youtube.com/channel/UCMJqwEZTyCAIt-vtTZ0QgXQ?view_as=subscriber
