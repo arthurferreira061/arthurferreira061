@@ -40,5 +40,5 @@
 [discord]: https://discord.gg/vPQv2EJpBA
 [youtube]: https://www.youtube.com/channel/UCMJqwEZTyCAIt-vtTZ0QgXQ?view_as=subscriber
 [Whatsapp]: https://wa.me/message/2C2AT3EHOZNQK1
-[instagram]: https://instagram.com/yusuke.sauro
+[instagram]: https://www.instagram.com/maiki_021programador/
 [webdevplaylist]: https://youtu.be/-wuc6XAyHZI
