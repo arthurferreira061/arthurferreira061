@@ -1,6 +1,6 @@
 ### ɪ'ᴍ ᴍᴀɪᴋɪ - [Discord][discord] 👋
 
-## Sou: Vagabundo - Desenvolvedor - Otaku - Gamer
+## Hacking - Desenvolvedor - Tecnologia - Gamer
 - 👽 ~ Como Sempre Aprendendo De Tudo Um Pouco
 - 👀 ~ Detalhista..
 - 💎 2020 = Conheçer Uma Bela Programadora Japonesa 🤣
