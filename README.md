@@ -13,7 +13,7 @@
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721679-youtube_108064.png" />][youtube]
 [<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" />][discord]
-[<img align="left" alt="codeSTACKr | Whatsapp" width="22px" src="<div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>" />][discord]
+[<img align="left" alt="codeSTACKr | Whatsapp" width="22px" src="https://resultadosdigitais.com.br/blog/files/2018/01/whatsapp-business-logo.jpg" />][discord]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />][instagram]
 
 <br />
