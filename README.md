@@ -1,4 +1,4 @@
-### I'm Yusuke - [Discord][discord] 👋
+### ɪ'ᴍ ᴍᴀɪᴋɪ - [Discord][discord] 👋
 
 ## Sou: Vagabundo - Desenvolvedor - Otaku - Gamer
 - 👽 ~ Como Sempre Aprendendo De Tudo Um Pouco
@@ -32,7 +32,7 @@
 
 <img align="left" alt="YsK Stats" src="https://github-readme-stats.vercel.app/api?username=UserWhare&show_icons=true&hide_border=true" />
 
-[discord]: https://discord.gg/VxVs86Z
-[youtube]: https://www.youtube.com/channel/UCDfWrrYJM04eQrWiicycG7Q?view_as=subscriber
+[discord]: https://discord.gg/vPQv2EJpBA
+[youtube]: https://www.youtube.com/channel/UCMJqwEZTyCAIt-vtTZ0QgXQ?view_as=subscriber
 [instagram]: https://instagram.com/yusuke.sauro
 [webdevplaylist]: https://youtu.be/-wuc6XAyHZI
