@@ -34,7 +34,9 @@
 <br />
 <br />
 
+<img align="left" alt="YsK Stats" src="https://github-readme-stats.vercel.app/api?username=UserWhare&show_icons=true&hide_border=true" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntsd&show_icons=true&theme=blue-green&hide_title=true&line_height=26" />&nbsp;<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=21upe2xfqu73mfjaknb3ci4iq&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21upe2xfqu73mfjaknb3ci4iq&cover_image=false&theme=default" alt="ntsd github stats" /></a>
 
 [discord]: https://discord.gg/vPQv2EJpBA
 [youtube]: https://www.youtube.com/channel/UCMJqwEZTyCAIt-vtTZ0QgXQ?view_as=subscriber
