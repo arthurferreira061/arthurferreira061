@@ -48,8 +48,15 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ntsd&show_icons=true&theme=blue-green&hide_title=true&line_height=26" />&nbsp;<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=21upe2xfqu73mfjaknb3ci4iq&redirect=true"></a>
   
-<a href="https://www.yonycalsin.com/" target="blank">Yony Calsin<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></a>
+<a href="https://github.com/sponsors/yonycalsin">
+    <img src="https://user-images.githubusercontent.com/7629661/87821425-1f956c00-c870-11ea-9871-a76f99739501.png" width="156" alt="Sponsor yonycalsin on GitHub" title="Sponsor yonycalsin on GitHub">
+  </a>
+</p>
 
+
+![](metrics.plugin.pagespeed.svg)
+
+![](metrics.plugin.languages.svg)
 
 [discord]: https://discord.gg/vPQv2EJpBA
 [youtube]: https://www.youtube.com/channel/UCMJqwEZTyCAIt-vtTZ0QgXQ?view_as=subscriber
