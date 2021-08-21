@@ -6,6 +6,8 @@
 - 💎 2020 = Conheçer Uma Bela Programadora Japonesa 🤣
 - ⚡ Like = Coreanas - Jogar - Ver Filmes - Criar
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fkkf4mwo7bywhmziuhe2mxarl&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
 ### Social:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721679-youtube_108064.png" />][youtube]
