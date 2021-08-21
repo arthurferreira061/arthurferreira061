@@ -7,6 +7,16 @@
 - 💎 2020 = Conheçer Uma Bela Programadora Japonesa 🤣
 - ⚡ Like = Coreanas - Jogar - Ver Filmes - Criar
 
+<p align="center" >
+ <a href="https://graphql.org/">
+<img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534392/graphql.svg" />
+ <a/>   
+ <a href="https://reactjs.org/">
+  <img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534460/react.svg" />
+  <a/>
+    <img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534532/node-dot-js.svg" />
+    <img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534606/typescript.svg" />
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fkkf4mwo7bywhmziuhe2mxarl&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
