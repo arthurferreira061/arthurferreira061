@@ -34,7 +34,7 @@
 <br />
 <br />
 
-<img align="left" alt="YsK Stats" src="https://github-readme-stats.vercel.app/api?username=UserWhare&show_icons=true&hide_border=true" />
+
 
 [discord]: https://discord.gg/vPQv2EJpBA
 [youtube]: https://www.youtube.com/channel/UCMJqwEZTyCAIt-vtTZ0QgXQ?view_as=subscriber
