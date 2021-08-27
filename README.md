@@ -59,6 +59,8 @@
                             <span class="title">Performance</span>
                         </div>
 
+![Snake animation](https://github.com/limathiagos/limathiagos/blob/output/github-contribution-grid-snake.svg)  
+  
 [discord]: https://discord.gg/vPQv2EJpBA
 [youtube]: https://www.youtube.com/channel/UCMJqwEZTyCAIt-vtTZ0QgXQ?view_as=subscriber
 [Facebook]: https://www.facebook.com/maiki.cracker.1
