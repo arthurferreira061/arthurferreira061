@@ -49,8 +49,7 @@
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntsd&show_icons=true&theme=blue-green&hide_title=true&line_height=26" />&nbsp;<a
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=tokyonight"/<a
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntsd&show_icons=true&theme=blue-green&hide_title=true&line_height=26"  src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=tokyonight"/>&nbsp;<a
 href="https://spotify-github-profile.vercel.app/api/view.svg?uid=21upe2xfqu73mfjaknb3ci4iq&redirect=true"></a> 
 
   
