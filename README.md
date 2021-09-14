@@ -51,7 +51,7 @@
 
   <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ntsd&show_icons=true&theme=blue-green&hide_title=true&line_height=26" />
-  <img src="https://i1.wp.com/windowscustomization.com/wp-content/uploads/2019/11/RGB-Line.gif?fit=768%2C432&quality=80&strip=all&ssl=1&w=640" width="30px">
+  <img src="https://i1.wp.com/windowscustomization.com/wp-content/uploads/2019/11/RGB-Line.gif?fit=768%2C432&quality=80&strip=all&ssl=1&w=640" width="80px">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=tokyonight" />
 </p>
 
