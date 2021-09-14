@@ -23,7 +23,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fkkf4mwo7bywhmziuhe2mxarl&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
   <img align="right" width="450" height="450" src="https://cdn.discordapp.com/attachments/814175338653286431/815460598312599572/tumblr_ncmc7gvndn1tp5wz6o1_500.gif">
-  <img align="low" width="450" height="450" src="https://media4.giphy.com/media/3oz8y0riwIYoeGOq1a/200.gif">
 
 
 ### Social:
