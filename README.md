@@ -23,6 +23,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fkkf4mwo7bywhmziuhe2mxarl&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
   <img align="right" width="450" height="450" src="https://cdn.discordapp.com/attachments/814175338653286431/815460598312599572/tumblr_ncmc7gvndn1tp5wz6o1_500.gif">
+  <img align="right" width="450" height="450" src="https://media4.giphy.com/media/3oz8y0riwIYoeGOq1a/200.gif">
 
 
 ### Social:
@@ -51,7 +52,6 @@
 
   <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ntsd&show_icons=true&theme=blue-green&hide_title=true&line_height=26" />
-  <img src="https://i1.wp.com/windowscustomization.com/wp-content/uploads/2019/11/RGB-Line.gif?fit=768%2C432&quality=80&strip=all&ssl=1&w=640" width="80px">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=tokyonight" />
 </p>
 
