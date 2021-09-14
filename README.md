@@ -22,7 +22,7 @@
     <img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534606/typescript.svg" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fkkf4mwo7bywhmziuhe2mxarl&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-  <img align="right" width="450" height="450" src="https://cdn.discordapp.com/attachments/814175338653286431/815460598312599572/tumblr_ncmc7gvndn1tp5wz6o1_500.gif">
+  <img align="right" width="450" height="450" src="https://motivatedandfree.files.wordpress.com/2019/12/giphy-8.gif">
 
 
 ### Social:
