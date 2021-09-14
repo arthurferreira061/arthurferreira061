@@ -22,7 +22,7 @@
     <img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534606/typescript.svg" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fkkf4mwo7bywhmziuhe2mxarl&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-  <img align="right" width="400" height="400" src="https://i.giphy.com/media/LnjHOUgggUx1jVq6oi/giphy.gif">
+  <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/ad/f4/13/adf4132c2660e304837035f46c3b0839.gif">
 
 
 ### Social:
