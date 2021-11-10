@@ -51,7 +51,7 @@
 
   <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ntsd&show_icons=true&theme=blue-green&hide_title=true&line_height=26" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=tokyonight" />
+  <img width="49%" src="profile-summary-card-output/github_dark/0-profile-details.svg" />
 </p>
 
   
