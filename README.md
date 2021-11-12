@@ -14,6 +14,7 @@
 <p align="center" >
  <a href="https://graphql.org/">
 <img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534392/graphql.svg" />
+  <img height="32" width="32" src="https://discord.c99.nl/widget/theme-1/598803960576606248.png" />
  <a/>   
  <a href="https://reactjs.org/">
   <img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534460/react.svg" />
