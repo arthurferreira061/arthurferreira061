@@ -51,7 +51,7 @@
 
   <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ntsd&show_icons=true&theme=blue-green&hide_title=true&line_height=26" />
-   <img width="48%" src="https://discord.c99.nl/widget/theme-3/440200028292907048.png)](https://discord.com/users/440200028292907048" />
+   <img width="48%" src="https://discord.c99.nl/widget/theme-3/440200028292907048.png" />
 </a>
 
   
