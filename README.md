@@ -1,4 +1,4 @@
-## ɪ'ᴍ ᴍᴀɪᴋɪ <img src="https://img.gifmagazine.net/gifmagazine/images/2361270/original.gif" width="30px">
+## ɪ'ᴍ arthur <img src="https://img.gifmagazine.net/gifmagazine/images/2361270/original.gif" width="30px">
 
 ![Welcome to cool town](https://i.imgur.com/Lp282rj.gif)
 
