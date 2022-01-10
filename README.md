@@ -18,7 +18,7 @@
     <img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534532/node-dot-js.svg" />
     <img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534606/typescript.svg" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fkkf4mwo7bywhmziuhe2mxarl&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21upe2xfqu73mfjaknb3ci4iq&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21upe2xfqu73mfjaknb3ci4iq&redirect=true)
   <img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/814175338653286431/815460598312599572/tumblr_ncmc7gvndn1tp5wz6o1_500.gif">
 
 
