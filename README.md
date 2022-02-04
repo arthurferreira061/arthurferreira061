@@ -22,7 +22,6 @@
   <img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/814175338653286431/815460598312599572/tumblr_ncmc7gvndn1tp5wz6o1_500.gif">
 
 <a href="https://discord.gg/wPWTHJY3Kw"><img src="https://img.shields.io/discord/799477005627555890?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a> 
-<a href="https://www.patreon.com/blackxsz_"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>  
 <a href="https://discord.com/users/817160910871330836"><img src="https://img.shields.io/badge/-@ydroxz.π_%234547-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
 ![](https://discord.c99.nl/widget/theme-3/817160910871330836.png)
