@@ -21,9 +21,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elp98176vxm62d1u7bfcf9f56&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   <img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/814175338653286431/815460598312599572/tumblr_ncmc7gvndn1tp5wz6o1_500.gif">
  
- alt="Minha Conta" /></a>
-
-![](https://discord.c99.nl/widget/theme-3/817160910871330836.png)
+![](https://discord.c99.nl/widget/theme-2/598803960576606248.png)
 
 ### Social:
 
