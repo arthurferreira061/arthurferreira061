@@ -64,7 +64,7 @@
 
 ![Snake animation](https://github.com/limathiagos/limathiagos/blob/output/github-contribution-grid-snake.svg)  
   
-[discord]: https://discord.gg/vC8BCxmuA3
+[discord]: https://discord.gg/devone
 [youtube]: https://www.youtube.com/channel/UCMJqwEZTyCAIt-vtTZ0QgXQ?view_as=subscriber
 [Facebook]: https://www.facebook.com/maiki.cracker.1
 [Whatsapp]: https://wa.me/message/2C2AT3EHOZNQK1
