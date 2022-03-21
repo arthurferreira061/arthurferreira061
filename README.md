@@ -18,7 +18,7 @@
     <img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534532/node-dot-js.svg" />
     <img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534606/typescript.svg" />
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=elp98176vxm62d1u7bfcf9f56&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=elp98176vxm62d1u7bfcf9f56&cover_image=true&theme=natemoo-re&bar_color=08fa00&bar_color_cover=true)]]
 
   <img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/814175338653286431/815460598312599572/tumblr_ncmc7gvndn1tp5wz6o1_500.gif">
  
