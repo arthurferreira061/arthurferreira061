@@ -18,11 +18,10 @@
     <img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534532/node-dot-js.svg" />
     <img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534606/typescript.svg" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elp98176vxm62d1u7bfcf9f56&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://allmylinks.com/arthurferreira053)
-<img heigh="left" width="400" height="400" src="https://cdn.discordapp.com/attachments/814175338653286431/815460598312599572/tumblr_ncmc7gvndn1tp5wz6o1_500.gif">
+<img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/814175338653286431/815460598312599572/tumblr_ncmc7gvndn1tp5wz6o1_500.gif">
 
 ### Social:
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elp98176vxm62d1u7bfcf9f56&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://allmylinks.com/arthurferreira053)
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721679-youtube_108064.png" />][youtube]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.discordapp.com/emojis/878688582586482698.png?v=1" />][Facebook]
 [<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" />][discord]
