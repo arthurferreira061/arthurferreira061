@@ -6,7 +6,7 @@
 - Mainboard: H310M-E 
 - GPU: GTX 1050 2GB
 - Mem: 16gb - 2660mhz
-- OS: Windows 11
+- OS: Windows 10
 
 <p align="center" >
  <a href="https://graphql.org/">
