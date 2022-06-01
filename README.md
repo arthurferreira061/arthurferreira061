@@ -24,7 +24,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elp98176vxm62d1u7bfcf9f56&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://allmylinks.com/arthurferreira053)
     <img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/814175338653286431/815460598312599572/tumblr_ncmc7gvndn1tp5wz6o1_500.gif">
 
-<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-2/1653490296471-1.png" height="1000px"/></a></p>
+<p align='center'><a href="#"><img height=auto width=auto src=" https://discord.c99.nl/widget/theme-3/962486677123776534.png" height="1000px"/></a></p>
 
 ### Social:
 
