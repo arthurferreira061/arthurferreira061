@@ -1,4 +1,4 @@
-
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=8C65F7FF&center=true&size=22&lines=Inovação;Desenvolvedor;Tecnologia;Gamer;"/>
 </p>
